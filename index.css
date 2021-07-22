@@ -1,0 +1,18 @@
+#paragraph{
+    background-color: rgb(235, 15, 52,0);
+    cursor: pointer;
+}
+
+#image{
+   
+    cursor: pointer;
+}
+ul>li{
+    cursor: pointer;
+}
+button{
+    cursor: pointer;
+}
+h2{
+    cursor: pointer;
+}
